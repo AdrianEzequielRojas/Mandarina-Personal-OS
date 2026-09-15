@@ -9,7 +9,7 @@ Caso de estudio de una aplicación personal que concentra finanzas, hogar, alime
 [Ver producto](https://somosmandarina.vercel.app)
 
 <p align="center">
-  <img src="assets/dashboard-mobile.png" alt="Inicio mobile de Mandarina Personal OS" width="360" />
+  <img src="assets/mandarina-os-cover.png" alt="Ilustración de Mandarina Personal OS" width="900" />
 </p>
 
 ## El problema
